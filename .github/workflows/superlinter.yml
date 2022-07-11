@@ -2,7 +2,7 @@
 
 name: Super-Linter
 
-on:push
+on: push
  
 jobs:
   super-lint:
